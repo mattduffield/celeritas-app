@@ -8,7 +8,6 @@ require (
 	github.com/go-chi/chi/v5 v5.1.0
 	github.com/jackc/pgconn v1.14.3
 	github.com/jackc/pgx/v4 v4.18.3
-	github.com/mattduffield/celeritas v0.0.0-00010101000000-000000000000
 	github.com/ory/dockertest/v3 v3.11.0
 	github.com/upper/db/v4 v4.9.0
 	golang.org/x/crypto v0.27.0
@@ -73,6 +72,7 @@ require (
 	github.com/klauspost/compress v1.15.11 // indirect
 	github.com/lib/pq v1.10.9 // indirect
 	github.com/mailgun/mailgun-go/v4 v4.4.1 // indirect
+	github.com/mattduffield/celeritas v0.0.0-20241120235822-b2640728957a // indirect
 	github.com/mitchellh/mapstructure v1.5.0 // indirect
 	github.com/moby/docker-image-spec v1.3.1 // indirect
 	github.com/moby/term v0.5.0 // indirect
